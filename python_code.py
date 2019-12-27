@@ -1,4 +1,5 @@
-# Applied Data Science Capstone
+Applied_DataScience_Capstone
+============================
 import pandas as pd
 import numpy as np
 print "Hello Capstone Project Course!"
